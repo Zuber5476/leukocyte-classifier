@@ -1,13 +1,13 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-import tensorflow as tf
+import tflite_runtime.interpreter as tflite
 import os
 
 # Load the TFLite model
 @st.cache_resource
 def load_model(path="model/leukocyte_model.tflite"):
-    interpreter = tf.lite.Interpreter(model_path=path)
+    interpreter = tflite.Interpreter(model_path=path)
     interpreter.allocate_tensors()
     return interpreter
 
