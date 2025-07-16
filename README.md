@@ -71,8 +71,8 @@ numpy
 
 You can upload any WBC microscope image like the one below:
 
+"C:\Users\hp\Desktop\images.jpg"
 
-![Uploading images.jpg…]()
 
 ---
 
@@ -85,12 +85,6 @@ You can upload any WBC microscope image like the one below:
 
 ---
 
-## 👨‍💻 Author
-
-- Name:
-- Email:
-- GitHub: 
----
 
 ## 📜 License
 
