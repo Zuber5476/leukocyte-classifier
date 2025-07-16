@@ -1,7 +1,7 @@
 # 🧬 Leukocyte Classifier model
 
 A deep learning–powered web app that classifies white blood cells (WBCs) into four major types: **Neutrophil**, **Eosinophil**, **Monocyte**, and **Lymphocyte**.  
-Built with TensorFlow and deployed using Streamlit.
+Built with TensorFlow
 
 ---
 
