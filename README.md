@@ -76,6 +76,17 @@ You can upload any WBC microscope image like the one below:
 
 ---
 
+---
+
+## 🧪 Results 
+
+After upload any WBC microscope image the expected results should be  like the one below:
+
+![Uploading l1.png…]()
+
+
+---
+
 ## 🧠 Model Details
 
 - Input size: `128x128`
