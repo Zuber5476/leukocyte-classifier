@@ -71,7 +71,7 @@ numpy
 
 You can upload any WBC microscope image like the one below:
 
-![Sample](https://i.imgur.com/4i4AFtP.jpg)
+![Sample]("C:\Users\hp\Desktop\images.jpg")
 
 ---
 
