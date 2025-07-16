@@ -24,7 +24,11 @@ leukocyte_classifier/
 ├── streamlit_app/
 │   └── app.py                      # Streamlit UI
 ├── requirements.txt                # Required Python packages
-├── README.md                       # This file
+├── assets/
+│   └── leukocyte_sample.jpg       # Example
+├── README.md                     # This file
+
+
 ```
 
 ---
@@ -70,8 +74,7 @@ numpy
 ## 🧪 Sample Image
 
 You can upload any WBC microscope image like the one below:
-![Uploading image.png…]()
-
+![Sample Image]("C:\Users\hp\Desktop\images.jpg")
 
 
 ---
@@ -82,7 +85,8 @@ You can upload any WBC microscope image like the one below:
 
 After upload any WBC microscope image the expected results should be  like the one below:
 
-![Uploading l1.png…]()
+![Sample WBC]("C:\Users\hp\Desktop\l1.png")
+
 
 
 ---
