@@ -48,12 +48,11 @@ streamlit run streamlit_app/app.py
 
 ## 🌍 How to Deploy Online (Streamlit Cloud)
 
-1. Push this project to a GitHub repository
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Click **“New app”** and:
-   - Choose your repo
+1. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
+2. Click **“New app”** and:
+   - Choose this repo
    - Set `streamlit_app/app.py` as the main file
-4. ✅ Your app will be publicly available
+3. ✅ Your app will be publicly available
 
 ---
 
@@ -87,7 +86,7 @@ You can upload any WBC microscope image like the one below:
 
 ## 👨‍💻 Author
 
-- Name: 
+- Name:
 - Email:
 - GitHub: 
 ---
