@@ -1,4 +1,13 @@
-streamlit
 numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+opencv-python
 Pillow
-tflite-runtime
+cartopy
+pydot
+pyngrok
+libarchive
+streamlit
+google
