@@ -63,10 +63,20 @@ streamlit run streamlit_app/app.py
 ## 📦 Requirements
 
 ```txt
-streamlit
-tensorflow
-pillow
 numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+opencv-python
+Pillow
+cartopy
+pydot
+pyngrok
+libarchive
+streamlit
+google
+
 ```
 
 ---
